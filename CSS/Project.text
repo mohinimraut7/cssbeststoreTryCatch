@@ -1,0 +1,55 @@
+1>product container bottom border width dete tur thickness yet
+2>product container left container right border half aahe pun purn dilay
+note=>product chya click var https://beantown.website/html/be/html/content/store2/product.html he page open karne
+font ninja extension
+=>navbar classes=>
+
+=>Home.html->
+
+overflow: hidden;
+    height: 100%;
+    width: 100%;
+    z-index: 20;
+    visibility: inherit;
+    opacity: 1;
+}
+=============
+background-attachment: fixed;
+ overflow: hidden;
+
+ @media screen and (min-width: 300px) and (max-width: 900px){
+   .btn-1{
+       display: none;
+   }
+   .navbar ul{
+    flex-direction: column;
+
+ position: absolute;
+ right:90px;
+ top:70px;
+    background: royalblue;
+    
+   }
+   .right-navs{
+       display: flex;
+   }
+   .bag-span{
+    position: absolute;   
+    right:130px;
+    top:30px;
+   }
+}
+.div2 + h1 {
+	color: darkcyan;
+}
+.div3 ~ h1{
+	color: salmon;
+}
+
+ul>li:hover{
+	color: red;
+}
+
+ul>li:hover +h1{
+
+}
